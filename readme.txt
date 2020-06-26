@@ -1,4 +1,3 @@
 This is my first practice
-爽歪歪！！！！
 enter new thigs.
-傻逼
+git push origin master
