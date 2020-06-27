@@ -2,7 +2,7 @@
 
 ![button-1](https://img.shields.io/badge/Student--resources-version%206-green.svg?style=flat)  ![button-2](https://img.shields.io/badge/from-mf8.biz-ff69b4.svg?style=flat)
 
-![cover](https://github.com/Sumsung524/learngit/master/Student-resources-min.png)
+![cover](https://github.com/Sumsung524/learngit/blob/master/Student-resources-min.png?raw=ture)
 
 # 📔说明
 
