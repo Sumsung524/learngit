@@ -2,13 +2,12 @@
 
 ![button-1](https://img.shields.io/badge/Student--resources-version%206-green.svg?style=flat)  ![button-2](https://img.shields.io/badge/from-mf8.biz-ff69b4.svg?style=flat)
 
-![cover](https://raw.githubusercontent.com/ivmm/Student-resources/master/Student-resources-min.png)
+![cover](https://github.com/Sumsung524/learngit/master/Student-resources-min.png)
 
 # 📔说明
 
 本文介绍的是利用学生身份可以享受到的相关学生优惠权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠资格，使得其他同学无法受益。
-
-**欢迎提交 issue 给我们你发现的实用资源！** 
+ 
 
 点击 `watch` 可以得到更新信息哟！
 
@@ -125,5 +124,3 @@
 
 **PPT 制作：**《[放 PPT 之前，请你注意这一些！](https://www.mf8.biz/ppt-tips/)》
 
-
-作者博客：https://www.mf8.biz/
